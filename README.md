@@ -1,6 +1,17 @@
 # Projeto-Invista
 O Invista_Me é uma aplicação web desenvolvida com Django, voltada para o controle e gerenciamento de investimentos pessoais ou empresariais. Com uma interface simples e intuitiva, é possível cadastrar, editar, visualizar e excluir investimentos, além de acompanhar informações como valor, status de pagamento e data.
 
+Como executar o projeto
+
+1 - Clone o repositório
+2 - Acesse a pasta do projeto
+3 - Crie e ative um ambiente virtual
+4 - Instale as dependências
+5 - Execute as migrações (python manage.py migrate)
+6 - Inicie o servidor de desenvolvimento (python manage.py runserver)
+7 - Acesse no navegador
+ 
+
 Funcionalidades principais:
 
      Listagem de todos os investimentos cadastrados
